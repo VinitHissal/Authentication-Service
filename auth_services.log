@@ -1,0 +1,17 @@
+2025-09-14 00:58:02,686 - INFO - Application starting up...
+2025-09-14 00:58:34,609 - INFO - Application starting up...
+2025-09-14 00:58:34,780 - INFO - Application starting up...
+2025-09-14 00:58:37,773 - INFO - Request to / took 0.0001 seconds
+2025-09-14 00:58:39,537 - INFO - User 'Gaurav' logged out.
+2025-09-14 00:58:39,538 - INFO - Request to /logout took 0.0005 seconds
+2025-09-14 00:58:39,559 - INFO - Request to /login took 0.0062 seconds
+2025-09-14 00:58:46,342 - INFO - Request to /signup took 0.0033 seconds
+2025-09-14 00:58:55,329 - INFO - New user 'Student' signed up successfully.
+2025-09-14 00:58:55,329 - INFO - Request to /signup took 0.0998 seconds
+2025-09-14 00:58:55,334 - INFO - Request to /login took 0.0002 seconds
+2025-09-14 00:59:05,279 - INFO - User 'Student' logged in successfully.
+2025-09-14 00:59:05,279 - INFO - Request to /login took 0.0959 seconds
+2025-09-14 00:59:05,284 - INFO - Request to / took 0.0000 seconds
+2025-09-14 00:59:07,054 - INFO - User 'Student' logged out.
+2025-09-14 00:59:07,055 - INFO - Request to /logout took 0.0004 seconds
+2025-09-14 00:59:07,069 - INFO - Request to /login took 0.0006 seconds
